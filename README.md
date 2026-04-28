@@ -50,7 +50,6 @@
 ## 📫 Connect with Me
 GitHub: https://github.com/leeya068  
 LinkedIn: https://www.linkedin.com/in/aleeya-nazirah-jamil-a11414237/
-Discord: leeya_naz
 
 ---
 
