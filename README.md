@@ -1,49 +1,14 @@
-# 👋 Hi, I'm Leeya
+## 👋 Hi, I'm Leeya
 
 🎓 Computer Science & Information Technology student  
 💻 Major: Computer Systems & Network  
 🚀 Hackathon participant | Project Manager | Java developer  
-🤖 Exploring Machine Learning & AI  
-
----
-
-## 🧠 About Me
-- I enjoy building practical systems that solve real problems  
-- Experienced in leading hackathon teams and coordinating project flow  
-- Strong in **Java development**, with growing interest in **AI/ML**  
-- I contribute to both development and documentation, depending on team needs  
 
 ---
 
 ## ⚒️ Tech Stack
-**Languages:** Java, Python (basic), SQL (basic)
-**Concepts:** OOP, 
-**Tools:** Git, GitHub
-**Currently Learning:** Machine Learning, AI integration, Backend, Frontend, UI/UX
 
----
-
-## 🚀 Projects
-
-### 📦 InvAgent – Inventory Management System
-- REST API-based system built with Spring Boot  
-- Features stock management, supplier tracking, and auto-restock functionality  
-- Built for UMHackathon 2026 (but we got disqualified in the prelims)
-
----
-
-## 🏆 Experience
-**Project Manager – Hackathon Team**
-- Led team coordination and development workflow  
-- Handled documentation and reporting  
-- Assisted in coding and debugging when needed  
-
----
-
-## 🌱 Currently Learning
-- Machine Learning fundamentals  
-- AI-powered application development  
-- Backend development improvement  
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
@@ -51,7 +16,3 @@
 GitHub: https://github.com/leeya068  
 LinkedIn: https://www.linkedin.com/in/aleeya-nazirah-jamil-a11414237/
 
----
-
-## ⚡ Fun Fact
-I can switch between coding, managing a team, and writing reports — sometimes all in one hackathon 😄
