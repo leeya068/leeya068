@@ -1,18 +1,49 @@
-## 👋 Hi, I'm Leeya
+<h1 align="center">👋 Hi, I'm Leeya</h1>
 
-🎓 Computer Science & Information Technology student  
-💻 Major: Computer Systems & Network  
-🚀 Hackathon participant | Project Manager | Java developer  
+<p align="center">
+🎓 Computer Science & Information Technology student <br>
+💻 Specializing in Computer Systems & Network <br>
+🚀 Hackathon participant • Project Manager • Java Developer
+</p>
 
 ---
 
 ## ⚒️ Tech Stack
 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" />
+</p>
 
 ---
 
-## 📫 Connect with Me
-GitHub: https://github.com/leeya068  
-LinkedIn: https://www.linkedin.com/in/aleeya-nazirah-jamil-a11414237/
+## 🌐 Connect with Me
 
+<p align="center">
+  <a href="https://github.com/leeya068">
+    <img src="https://img.shields.io/badge/GitHub-leeya068-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/aleeya-nazirah-jamil-a11414237/">
+    <img src="https://img.shields.io/badge/LinkedIn-Aleeya%20Nazirah-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
+
+---
+
+## ✨ About Me
+
+- 🧠 Interested in systems, networks, and real-world problem solving  
+- 🏗️ Currently building projects through hackathons & collaborations  
+- ⚡ Always learning something new in tech  
+
+---
+
+## 📊 Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=leeya068&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
