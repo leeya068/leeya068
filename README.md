@@ -1,10 +1,8 @@
-<h1 align="center">👋 Hi, I'm Leeya</h1>
+## Hi, I'm Leeya
 
-<p align="center">
-🎓 Computer Science & Information Technology student <br>
-💻 Specializing in Computer Systems & Network <br>
-🚀 Hackathon participant • Project Manager • Java Developer
-</p>
+🧠 Interested in systems, networks, and real-world problem solving  
+🏗️ Currently building projects through hackathons & collaborations
+⚡ Always learning something new in tech  
 
 ---
 
@@ -34,16 +32,9 @@
 
 ---
 
-## ✨ About Me
-
-- 🧠 Interested in systems, networks, and real-world problem solving  
-- 🏗️ Currently building projects through hackathons & collaborations  
-- ⚡ Always learning something new in tech  
+## 📊 Stats
+![](https://github-readme-stats.vercel.app/api?username=btelgeuse&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=btelgeuse&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=btelgeuse&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-
-## 📊 Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=leeya068&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
