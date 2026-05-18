@@ -16,12 +16,3 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" />
 </p>
-
----
-
-## 📊 Stats
-![](https://github-readme-stats.vercel.app/api?username=leeya068&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=leeya068&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=leeya068&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
