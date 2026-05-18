@@ -19,19 +19,6 @@
 
 ---
 
-## 🌐 Connect with Me
-
-<p align="center">
-  <a href="https://github.com/leeya068">
-    <img src="https://img.shields.io/badge/GitHub-leeya068-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://www.linkedin.com/in/aleeya-nazirah-jamil-a11414237/">
-    <img src="https://img.shields.io/badge/LinkedIn-Aleeya%20Nazirah-0A66C2?style=for-the-badge&logo=linkedin" />
-  </a>
-</p>
-
----
-
 ## 📊 Stats
 ![](https://github-readme-stats.vercel.app/api?username=btelgeuse&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=btelgeuse&theme=dark&hide_border=false)<br/>
