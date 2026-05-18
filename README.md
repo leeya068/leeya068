@@ -1,7 +1,7 @@
 ## Hi, I'm Leeya
 
 🧠 Interested in systems, networks, and real-world problem solving  
-🏗️ Currently building projects through hackathons & collaborations
+🏗️ Currently building projects through hackathons & collaborations 
 ⚡ Always learning something new in tech  
 
 ---
